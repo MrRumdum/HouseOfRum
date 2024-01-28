@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mytextures/blood3d/blood3d_train9"
+	"$translucent" 1 
+	"$surfaceprop" "Default"
+}

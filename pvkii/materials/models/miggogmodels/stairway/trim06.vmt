@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "de_corse/trim06"
+	"%keywords" "pvk"
+	"$surfaceprop" "wood"
+//	"$envmap" "env_cubemap"
+//	"$envmapmask" "de_corse/wall08a_specmask"
+//	"$bumpmap" "de_corse/ground01a_normal"
+//	"$normalmapalphaenvmapmask" 1
+}

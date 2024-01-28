@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "jahhur/j_stonewall2"
+	"$bumpmap" "jahhur/forgwallmiddle_normal"
+	"$surfaceprop" "concrete"
+
+	"%keywords" "pvk"
+}
