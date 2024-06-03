@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "mytextures/rumrock_fire_green"
+	"$selfillum" "1"
+	"$selfillumtint" "67 220 58"
+}
