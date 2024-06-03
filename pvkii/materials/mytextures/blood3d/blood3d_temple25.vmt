@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mytextures/blood3d/blood3d_temple25"
+	"$translucent" 1
+}

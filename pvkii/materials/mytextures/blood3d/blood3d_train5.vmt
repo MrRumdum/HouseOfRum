@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "mytextures/blood3d/blood3d_train5"
+	"$surfaceprop" "metal"
+}
